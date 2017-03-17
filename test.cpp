@@ -5,7 +5,7 @@ int global_int;
 
 int main()
 {
-    int i = 42;
+    int i = 43;
     int &r1 = i;
     int *const p1 = &i;
     int *p2 = 0;
